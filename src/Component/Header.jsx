@@ -44,7 +44,7 @@ export const Header = () => {
               Organ<span className="span">ica</span>
             </a>
             <a href="/" className="logo">
-              AGAIN Modi<span className="span">fied</span>
+              WebHook Modi<span className="span">fied</span>
             </a>
           </h1>
           <button
