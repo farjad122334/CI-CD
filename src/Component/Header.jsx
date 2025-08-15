@@ -43,6 +43,9 @@ export const Header = () => {
             <a href="/" className="logo">
               Organ<span className="span">ica</span>
             </a>
+            <a href="/" className="logo">
+              Modi<span className="span">fied</span>
+            </a>
           </h1>
           <button
             className="nav-open-btn"
