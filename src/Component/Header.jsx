@@ -77,7 +77,7 @@ export const Header = () => {
                   to="contact"
                   offset={-30}
                 >
-                  About - Modified
+                  About
                 </Link>
               </li>
               <li>
