@@ -65,7 +65,7 @@ export const Header = () => {
             <ul className="navbar-list">
               <li>
                 <a href="/" className="navbar-link">
-                  Home
+                  Home 1
                 </a>
               </li>
               <li>
