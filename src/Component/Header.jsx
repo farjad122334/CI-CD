@@ -43,11 +43,7 @@ export const Header = () => {
             <a href="/" className="logo">
               Organ<span className="span">ica</span>
             </a>
-            <a href="/" className="logo">
-              WebHook <span className="span">GGGGG</span>
-              WebHook <span className="span">Solved!!!</span>
-            </a>
-          </h1>
+            </h1>
           <button
             className="nav-open-btn"
             aria-label="Open Menu"
