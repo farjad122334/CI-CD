@@ -44,7 +44,7 @@ export const Header = () => {
               Organ<span className="span">ica</span>
             </a>
             <a href="/" className="logo">
-              WebHook Modi<span className="span">fied 1</span>
+              WebHook <span className="span">Testing 3</span>
             </a>
           </h1>
           <button
@@ -65,7 +65,7 @@ export const Header = () => {
             <ul className="navbar-list">
               <li>
                 <a href="/" className="navbar-link">
-                  Home
+                  Home 1
                 </a>
               </li>
               <li>
