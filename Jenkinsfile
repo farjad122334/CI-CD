@@ -1,14 +1,9 @@
 pipeline {
     agent {label 'runner1'}
-    
-    triggers {
-        githubPush()
-    }
-
-    stages {
+        stages {
         stage('Git Checkout') {
             steps {
-                git url: 'https://github.com/farjad122334/CI-CD.git' , branch: 'main'
+                git url: 'https://github.com/farjad122334/CI-CD.git' , branch: "main"
             }
         }
         stage('Clean Old Containers and Images') {
